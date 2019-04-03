@@ -1,6 +1,3 @@
-// ECS629/759 Assignment 2 - ID3 Skeleton Code
-// Author: Simon Dixon
-
 import java.io.File;
 import java.io.FileReader;
 import java.io.BufferedReader;
